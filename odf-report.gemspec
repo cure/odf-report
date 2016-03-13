@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "odf-report/version"
 
 Gem::Specification.new do |s|
-  s.name = %q{odf-report}
+  s.name = %q{cure-odf-report}
   s.version = ODFReport::VERSION
 
   s.authors = ["Sandro Duarte"]
